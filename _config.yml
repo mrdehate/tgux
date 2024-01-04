@@ -5,4 +5,3 @@ plugins:
 
 title: "That Game's UX"
 description: Because gamers are users too
-permalink: /tgux/:year/:month/:day/:title
